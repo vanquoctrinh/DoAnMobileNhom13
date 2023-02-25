@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/drawable/cat_backgound.xml" value="0.1675" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/drawable/edittext_background.xml" value="0.1125" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/drawable/input_bg.xml" value="0.12" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/drawable/viewholder_category.xml" value="0.159" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/font/aldrich.xml" value="0.19537037037037036" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/activity_cart_list.xml" value="0.22" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/activity_choose_train.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/activity_show_detail.xml" value="0.25" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/fragment_dashboard.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/fragment_notifications.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/fragment_train.xml" value="0.20416666666666666" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/list_train_item.xml" value="0.153125" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/viewholder_cart.xml" value="0.25" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/viewholder_category.xml" value="0.25" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/viewholder_listitem.xml" value="0.25" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/layout/viewholder_popular.xml" value="0.25" />
+        <entry key="..\:/Project/bottomNavi/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

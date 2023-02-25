@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965236313189",
+    "project_id": "bottomnavi-bd77e",
+    "storage_bucket": "bottomnavi-bd77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965236313189:android:96837497af02c149984a8c",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965236313189-v5obva0krncha5gmsue3lbv0vc1dsehq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZogm9O5IttHlu8V7qIrfz9z1OnvN7VqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965236313189-v5obva0krncha5gmsue3lbv0vc1dsehq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
